@@ -8,9 +8,9 @@ Description:
 EduTren is a secure, private enterprise Learning Management System (LMS) ecosystem engineered explicitly for seamless campus management, admissions, and academic administration. The platform utilizes a microservices-inspired architecture encompassing specialized mobile applications for students, teachers, and parents across Android and iOS platforms, multi-tenant back-office web suites, and standalone backend modules handling everything from biometric attendance tracking and admissions (PMB/PPDB) to secure databases and cryptographic SDKs. This repository network serves as the centralized, internal code base restricted exclusively to the EduTren engineering team.
 
 url at free service proxies:
-<a href="https://rawcdn.githack.com/sugiantoliau/edutren/b3638c19d899406885527991b85061305a772bc4/index.html" target="_blank">Edutren Repo</a>
+<a href="https://rawcdn.githack.com/sugiantoliau/edutren/b3638c19d899406885527991b85061305a772bc4/index.html" target="_blank">Edutren Repo (Prod Env) </a>
 or 
-<a href="https://raw.githack.com/sugiantoliau/edutren/main/index.html" target="_blank">Edutren Repo</a>
+<a href="https://raw.githack.com/sugiantoliau/edutren/main/index.html" target="_blank">Edutren Repo (Dev Env)</a>
 
 
 <br>
