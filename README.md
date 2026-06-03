@@ -9,6 +9,9 @@ EduTren is a secure, private enterprise Learning Management System (LMS) ecosyst
 
 url at free service proxies:
 <a href="https://rawcdn.githack.com/sugiantoliau/edutren/b3638c19d899406885527991b85061305a772bc4/index.html" target="_blank">Edutren Repo</a>
+or 
+<a href="https://raw.githack.com/sugiantoliau/edutren/main/index.html" target="_blank">Edutren Repo</a>
+
 
 <br>
 ### 📱 Android Mobile Repositories
